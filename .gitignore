@@ -1,3 +1,16 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Virtual environments (uv default)
+.venv/
+
+# Python caching & bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
 # Python-generated files
 __pycache__/
 *.py[oc]
@@ -8,3 +21,4 @@ wheels/
 
 # Virtual environments
 .venv
+.env
